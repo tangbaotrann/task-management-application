@@ -49,6 +49,7 @@ public class GUI_Book extends JFrame implements ActionListener, MouseListener {
 	public GUI_Book(String title) {
 		setTitle(title);
 		doShow();
+		//trấn
 	}
 
 	public void doShow() {
